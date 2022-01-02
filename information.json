@@ -10,16 +10,16 @@
     "address": "中国广东省深圳市龙岗区布沙路106-1号", 
     "latitude": "22.607039", 
     "longitude": "114.149044", 
-    "SERVERPUSHKEY": "SCT109078Tl91cmV91pDxwkLw48TQvMv3x", # Server酱推送
-    "TG_BOT_TOKEN": "",  # Telegram推送服务Token
-    "TG_USER_ID": "", # Telegram推送服务UserId
-    "BARK": "", # bark消息推送服务,自行搜索; secrets可填;形如jfjqxDx3xxxxxxxxSaK的字符串
-    "PUSHPLUS": "", # PUSHPLUS消息推送Token
-    "ACCESSTOKEN": "", # 企业微信access_token
-    "CORPID": "", # 企业ID  （如果已经填写ACCESSTOKEN  则无需填写这个）
-    "CORPSECRET": "", # 应用的凭证密钥  （如果已经填写ACCESSTOKEN  则无需填写这个）
-    "TOUSER": "", # touser指定接收消息的成员  默认为全部
-    "AGENTID": "", # agentid企业应用的id
+    "SERVERPUSHKEY": "SCT109078Tl91cmV91pDxwkLw48TQvMv3x",
+    "TG_BOT_TOKEN": "", 
+    "TG_USER_ID": "",
+    "BARK": "",
+    "PUSHPLUS": "",
+    "ACCESSTOKEN": "",
+    "CORPID": "",
+    "CORPSECRET": "",
+    "TOUSER": "",
+    "AGENTID": "", agentid企业应用的id
     "THUMB_MEDIA_ID": "" ,# 企业微信素材库图片id
     "DING_PUSH_TOKEN": "" # 钉钉机器人推送webhook
   }
